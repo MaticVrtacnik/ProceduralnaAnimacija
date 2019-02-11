@@ -1,0 +1,17 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Sphere
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kn PBR_materials\\oak_floor\\normal.png
+map_Ka PBR_materials\\oak_floor\\metallic.png
+map_Kd PBR_materials\\oak_floor\\albedo.png
+map_Ks PBR_materials\\oak_floor\\occlusion.png
+map_Ns PBR_materials\\oak_floor\\roughness.png

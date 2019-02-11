@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Material name="rusted_iron">
+
+	<Physics friction="0.75" restitution="0.2"/>
+	
+	<Sound path="walk.wav" />
+	
+	<Displacement scale="0.01" />
+	
+</Material>
+
+

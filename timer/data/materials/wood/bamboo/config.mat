@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Material name="bamboo">
+
+	<Physics friction="0.85" restitution="0.2"/>
+	
+	<Sound path="walk.wav" />
+	
+	<Displacement scale="0.01" />
+	
+</Material>
+
+
