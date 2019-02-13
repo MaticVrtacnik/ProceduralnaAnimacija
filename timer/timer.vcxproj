@@ -124,7 +124,6 @@
     <ClCompile Include="PostProcessing\HDR.cpp" />
     <ClCompile Include="PostProcessing\LinearizeDepth.cpp" />
     <ClCompile Include="PostProcessing\MotionBlur.cpp" />
-    <ClCompile Include="PostProcessing\Painting\OilPaint.cpp" />
     <ClCompile Include="PostProcessing\SAO.cpp" />
     <ClCompile Include="PostProcessing\SAOBlur.cpp" />
     <ClCompile Include="PostProcessing\SSLightScattering.cpp" />
@@ -197,7 +196,6 @@
     <ClInclude Include="Mesh\VertexData.hpp" />
     <ClInclude Include="PostProcessing\CombineTextures.hpp" />
     <ClInclude Include="PostProcessing\LinearizeDepth.hpp" />
-    <ClInclude Include="PostProcessing\Painting\OilPaint.hpp" />
     <ClInclude Include="PostProcessing\SAO.hpp" />
     <ClInclude Include="PostProcessing\SAOBlur.hpp" />
     <ClInclude Include="System\CollisionSystem.hpp" />
@@ -280,7 +278,6 @@
     <ClInclude Include="PostProcessing\PostProcessing.hpp" />
     <ClInclude Include="Define\PrintDefines.hpp" />
     <ClInclude Include="Utility\TimerUtilities.hpp" />
-    <ClInclude Include="Application.hpp" />
     <ClInclude Include="WorldLoader\pugiconfig.hpp" />
     <ClInclude Include="WorldLoader\pugixml.hpp" />
     <ClInclude Include="Utility\RandomUtilities.hpp" />

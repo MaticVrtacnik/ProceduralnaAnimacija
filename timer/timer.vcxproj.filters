@@ -324,9 +324,6 @@
     <ClCompile Include="Utility\InterpolationUtilities.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PostProcessing\Painting\OilPaint.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Animation\InverseKinematics\FABRIK.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -644,9 +641,6 @@
     <ClInclude Include="PostProcessing\CombineTextures.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Application.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Input\Input.hpp">
       <Filter>Source Files\Input</Filter>
     </ClInclude>
@@ -699,9 +693,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Utility\InterpolationUtilities.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="PostProcessing\Painting\OilPaint.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Animation\InverseKinematics\FABRIK.hpp">
